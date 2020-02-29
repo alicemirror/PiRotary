@@ -1,0 +1,29 @@
+{
+  "phrases": 9,
+  "list": [
+    "Pi-Rotary is ready, dial commands when the red light is on. Dial 1 1 1 for help",
+    "Closing interactive station.",
+    "Starting music player",
+    "Play the entire playlist.",
+    "Now playing",
+    "System booted",
+    "Playlist content:",
+    "titles",
+    "Wrong command. Please, redial."
+  ],
+  "helpsentences": 10,
+  "help": [
+    "Usage information",
+    "Wait for the red light before dialling a command",
+    "Dial 1 2 3: play all the playlist in order",
+    "Dial 1 2 4: list all the playlist titles",
+    "Dial 3 2 1: play the next track in the playlist",
+    "Dial numbers from 4 0 1 to play the corresponding track in the playlist",
+    "Dial 6 6 6: hot reset the Pi Rotary",
+    "Dial 9 9 9: cold reset the Pi Rotary",
+    "Dial 1 0 0: hear last weather report",
+    "Dial 1 1 1: these help notes"
+  ],
+  "ICAO": "EBBR",
+  "airport": "Weather from airport station of Bruxelles. Please wait."
+}
